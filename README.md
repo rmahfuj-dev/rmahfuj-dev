@@ -47,14 +47,7 @@ I’m a MERN Stack Web Developer skilled in building responsive and dynamic web 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rmahfuj-dev&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rmahfuj-dev&hide_border=true" height="150"/>
-</p>
-
----
 
 ### 🌍 Connect With Me
 
