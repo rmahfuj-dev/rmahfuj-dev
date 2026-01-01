@@ -12,7 +12,7 @@ I’m a MERN Stack Web Developer skilled in building responsive and dynamic web 
 - 🚀 Currently building **full-stack applications**
 - 🌱 Exploring Next.js soon
 - 🎯 Goal: Become a full-stack SaaS/product developer
-- 📩 Contact: yourmail@example.com
+- 📩 Contact: rmahfujur782@gmail.com
 
 ---
 
