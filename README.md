@@ -58,5 +58,5 @@ I’m a MERN Stack Web Developer skilled in building responsive and dynamic web 
 </p>
 
 ---
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you are insteresed to work with me then please reach out me on mail .
 
