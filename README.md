@@ -52,9 +52,9 @@ I’m a MERN Stack Web Developer skilled in building responsive and dynamic web 
 ### 🌍 Connect With Me
 
 <p>
-<a href="your-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="your-portfolio-link"><img src="https://skillicons.dev/icons?i=webflow" width="40"/></a>
-<a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://www.linkedin.com/in/mahfuj-dev/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://mahfuj-dev.netlify.app/"><img src="https://skillicons.dev/icons?i=webflow" width="40"/></a>
+<a href="mailto:rmahfujur782@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
